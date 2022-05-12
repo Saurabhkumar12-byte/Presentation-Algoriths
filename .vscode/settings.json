@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "Selection.C": "cpp",
+        "algorithm": "cpp",
+        "Bubble.C": "cpp",
+        "Insertion.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
