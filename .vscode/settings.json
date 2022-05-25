@@ -3,7 +3,8 @@
         "Selection.C": "cpp",
         "algorithm": "cpp",
         "Bubble.C": "cpp",
-        "Insertion.C": "cpp"
+        "Insertion.C": "cpp",
+        "countSort.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
