@@ -4,7 +4,8 @@
         "algorithm": "cpp",
         "Bubble.C": "cpp",
         "Insertion.C": "cpp",
-        "countSort.C": "cpp"
+        "countSort.C": "cpp",
+        "mergeSort.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
